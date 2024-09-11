@@ -8,3 +8,8 @@ Soy Octavio Mendoza, trabajo como directivo de una Institución de Educación Su
 
 
 Hola Octavio, soy Eyder
+
+<br>
+Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.  
+
+![](https://raw.githubusercontent.com/vcuspinera/UDG_MCD_Project_Dev_I/main/actividades/img/MCD_logo.png)
