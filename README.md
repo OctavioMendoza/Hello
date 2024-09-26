@@ -12,9 +12,8 @@ Hola Octavio, soy Eyder
 La sección de Referencias de este repositorio las encontrarás en [este link](PONER_LINK_DE_ARCHIVO_REFERENCIAS_SECCION_4_DE_ESTA_ACTIVIDAD).
 
 ### Original idea
-This is based in [ttimbers/hello](https://github.com/ttimbers/hello) repository. Thank you Tiffany!
+_Original idea by **[Tiffany Timbers](https://github.com/ttimbers/hello)**_ in the repository [ttimbers/hello](https://github.com/ttimbers/hello) repository. Thank you Tiffany!
 
-_Note: Original idea by **[Tiffany Timbers](https://github.com/ttimbers/hello)**_
 
 <br>
 Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.  
