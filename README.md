@@ -12,7 +12,7 @@ Hola Octavio, soy Eyder
 La sección de Referencias de este repositorio las encontrarás en [este link](PONER_LINK_DE_ARCHIVO_REFERENCIAS_SECCION_4_DE_ESTA_ACTIVIDAD).
 
 ### Original idea
-_Original idea by **[Tiffany Timbers](https://github.com/ttimbers/hello)**_ in the repository [ttimbers/hello](https://github.com/ttimbers/hello) repository. Thank you Tiffany!
+_Original idea by **[Tiffany Timbers](https://github.com/ttimbers/hello)**_ in the repository [ttimbers/hello](https://github.com/ttimbers/hello). Thank you Tiffany!
 
 
 <br>
